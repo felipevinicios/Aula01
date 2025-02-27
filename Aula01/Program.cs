@@ -50,7 +50,7 @@ public class Program
         else
         {
 
-            Console.WriteLine("OPeracao invalida");
+            Console.WriteLine("Operacao invalida");
 
         }
         Console.WriteLine("Resultado: " + result);
